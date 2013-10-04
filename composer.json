@@ -1,0 +1,18 @@
+{
+    "name": "bragento/MagentoFoundation",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Foundation 3 Framework for Magento 1.7. Foundation styles and libraries. Magento Responsive theme. Off-canvas Left-Right sidebar columns for mobile",
+    "website": "https://github.com/nandroid/MagentoFoundation",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "require-dev": {
+    },
+    "authors":[
+        {
+            "name":"http://www.nandroide.com"
+        }
+    ]
+
+}
