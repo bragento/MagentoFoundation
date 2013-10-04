@@ -1,0 +1,4 @@
+# The folder structure seems to to be lacking Magento conformance and should be corrected in future releases
+# in order to keep the structure as it is we'll just correct it in the modman file
+app/magento-foundation app/design/frontend/magento-foundation/
+skin/magento-foundation skin/frontend/magento-foundation/
